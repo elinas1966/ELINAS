@@ -1,5 +1,10 @@
 ## Welcome to GitHub Pages
+I am using a GitHub Pages theme
 
+Open the file named README.md.
+Remove the template text that was added to the README.md when you selected your theme.
+In the README.md file include at least the following two lines: # Hello World! and My name is GITHUB_USERNAME. Bonus points for including more information.
+When you are finished, save your changes and close the text editor.
 You can use the [editor on GitHub](https://github.com/elinas1966/YOUR-USERNAME.GITHUB.IO/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
